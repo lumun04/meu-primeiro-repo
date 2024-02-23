@@ -2,4 +2,4 @@
 Primeiro repositório no GitHub
 
 
-Alterando remotamente o repositório
+Alterando remotamente o repositório.
